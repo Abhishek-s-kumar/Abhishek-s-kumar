@@ -38,28 +38,6 @@ Burp Suite, OWASP ZAP, FTK, Autopsy, Nmap, Wireshark, Hashcat, John the Ripper, 
 
 ---
 
-## 🎓 Education
-
-- 🎓 **M.Tech in Computer Science & Cyber Security**  
-  Cochin University of Science and Technology (2024–Present)  
-  **CGPA**: 8.82/10
-
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  Ahalia School of Engineering & Technology (2020–2024)  
-  **CGPA**: 8.05/10
-
----
-
-## 📜 Certifications
-
-- NPTEL: Java Programming (2022)  
-- NPTEL: Data Science for Engineers (2023)  
-- TCS iON: Career Edge – Young Professional (2023)  
-- Cyber Security Cadet – Ethical Hacking (2023)  
-- NPTEL: Software Conceptual Design (2023)  
-- NPTEL: Cloud Computing & Distributed Systems (2025)
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-s-kumar-9535bb258)
@@ -100,12 +78,11 @@ Burp Suite, OWASP ZAP, FTK, Autopsy, Nmap, Wireshark, Hashcat, John the Ripper, 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-s-kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek-s-kumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-s-kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-s-kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+[![](https://visitcount.itsvg.in/api?id=Abhishek-s-kumar&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Abhishek-s-kumar&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
