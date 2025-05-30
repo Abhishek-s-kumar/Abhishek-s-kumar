@@ -81,7 +81,7 @@ Burp Suite, OWASP ZAP, FTK, Autopsy, Nmap, Wireshark, Hashcat, John the Ripper, 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-s-kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishek-s-kumar&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-s-kumar&color=orange)
 
 
 
