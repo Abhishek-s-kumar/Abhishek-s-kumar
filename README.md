@@ -31,10 +31,10 @@ I'm a **Computer Science graduate** with a keen interest in **cybersecurity**, *
 Java, Python, C++, C, Kotlin, Dart, HTML
 
 ### 🧰 Tools & Platforms
-Git, Docker, Jenkins, GitHub, Android Studio, VS Code, Apache HBase
+Git, Docker, Jenkins, GitHub, Android Studio, VS Code, Apache ,GitActions, NGINX 
 
 ### 🔐 Cybersecurity Toolkit
-Burp Suite, OWASP ZAP, FTK, Autopsy, Nmap, Wireshark, Hashcat, John the Ripper, Aircrack-ng, Wifite, Metasploit, Ettercap, Cisco Packet Tracer
+Burp Suite, OWASP ZAP, FTK, Autopsy, Nmap, Wireshark, Hashcat, John the Ripper, Aircrack-ng, Wifite, Metasploit, Ettercap, Cisco Packet Tracer, Wazuh, AtomicRedTeam, Hashcat, Hydra
 
 ---
 
