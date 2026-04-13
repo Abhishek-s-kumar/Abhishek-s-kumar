@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abhishek🧿
 
-> 🎯 **Aspiring Cybersecurity Engineer | Developer | Open Source Contributor**
+> 🎯 ** Cybersecurity Engineer | Developer | Open Source Contributor**
 
 I'm a **Computer Science graduate** with a keen interest in **cybersecurity**, **software engineering**, and **automation scripting**. I'm driven by a passion for secure system design, reverse engineering, and creative development.
 
