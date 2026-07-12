@@ -23,8 +23,8 @@ I'm a **Computer Science graduate** with a keen interest in **cybersecurity**, *
 ## 🐍 Live Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_USER>/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_USER>/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek-s-kumar/Abhishek-s-kumar/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Abhishek-s-kumar/Abhishek-s-kumar/output/snake.svg" />
 </picture>
 
 ---
