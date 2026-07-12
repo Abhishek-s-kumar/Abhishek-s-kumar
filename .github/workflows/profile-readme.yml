@@ -25,7 +25,7 @@ jobs:
 
       - name: Rebuild ASCII typing SVG
         run: |
-          python scripts/photo_to_ascii.py assets/photo.jpg --width 70
+          python scripts/photo_to_ascii.py assets/photo.png --width 70
           python scripts/build_typing_svg.py
 
       - name: Rebuild neofetch panel
